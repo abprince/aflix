@@ -1,5 +1,5 @@
 {
-  "embed_base_url": "https://vidstuck.xyz",
+  "embed_base_url": "https://vidsrc.in",
   "movie_path": "/embed/movie/{id}",
-  "tv_path": "/embed/tv/{id}/{season}/{episode}?branding=StreameX&loading=1&back=true"
+  "tv_path": "/embed/tv/{id}/{season}/{episode}"
 }
