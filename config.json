@@ -1,0 +1,5 @@
+{
+  "embed_base_url": "https://vidstuck.xyz",
+  "movie_path": "/embed/movie/{id}",
+  "tv_path": "/embed/tv/{id}/{season}/{episode}"
+}
